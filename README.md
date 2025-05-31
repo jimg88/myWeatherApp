@@ -1,12 +1,9 @@
-# myWeatherApp
-
 # Simple Weather App
 -	A basic weather application that lets you search for current weather conditions by city name. It uses the OpenWeather API to fetch live weather data.
 
 ##Screenshots
-![image](https://github.com/user-attachments/assets/5c3c4ba6-2674-4e1f-92e4-7049b271d4a2)
-![image](https://github.com/user-attachments/assets/951ae99c-8c6e-4526-afa2-a5a21cacae0a)
-
+![image](https://github.com/user-attachments/assets/39cf8853-d7f9-4afa-ac89-cc26e90ebfc7)
+![image](https://github.com/user-attachments/assets/2e7c1feb-ca0b-4d31-ac68-73ae0cd96e72)
  
 ##Features
 -	Search weather by city
