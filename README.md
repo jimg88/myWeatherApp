@@ -1,11 +1,7 @@
 Simple Weather App
 -	A basic weather application that lets you search for current weather conditions by city name. It uses the OpenWeather API to fetch live weather data.
 
-![image](https://github.com/user-attachments/assets/47374824-5503-4ce9-92a6-da711998e7bc)  ![image](https://github.com/user-attachments/assets/5bf8224d-03fc-4c8b-b23e-cfd33106eb85)
-
-
-
-
+![image](https://github.com/user-attachments/assets/731a5a82-8808-421a-bf96-a4ace7528d58) ![image](https://github.com/user-attachments/assets/0e1dfdb5-317e-4b5d-b888-0602102e7603)
  
 Features
 -	Search weather by city
